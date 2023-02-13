@@ -1,1 +1,1 @@
-bfuyfhiug
+print(a+b)
